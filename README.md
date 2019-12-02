@@ -16,6 +16,9 @@ Things from github are...
 
 ---
 ## Initial Setup
+Now that you have the basic idea of Git and Github we are going to have to make ourselves a github account which is a simple proccess if you don't have a account just go to github and press sign up then just make your account.  
+
+Now we move on to a thing called IDE which means **integrated Development Software** which has to be used with github as github is not a IDE itself so to setup a IDE first you will need a IDE so that you'll be able to edit and work on your code so one that we'll be using is **[CS50](https://ide.cs50.io/)** now to set it up you'll have to follow the instructions on this github [Page](https://github.com/hstatsep/ide50). Now that you're finished with that we have to talk about SSH keys
 
 
 
