@@ -23,8 +23,11 @@ Now that you're finished with that we have to talk about SSH keys which is a imp
 
 ---
 ## Repository Setup
-Now that you have your IDE set up and ready to use github we move onto making yourself a repository maybe your first one too and to begin we'll have to go into top right where the + icon is and click on it then click on new repository.
-![alt text](https://i.gyazo.com/b7e979aa7aafcfdf7b44cdee30490e87.png)
+Now that you have your IDE set up and ready to use github we move onto making yourself a repository maybe your first one too but first  i'll explain what is a repository it's different from a file as when making a file it's just normal folder with nothing and what makes a repository different is that a repo has hidden filse is in it which makes it able to use git commands.  
+so now that we got that down we have to initialize git in the folder which will become the Repository so to do that you must go inside the folder which you want to become the repository and use the command "git init" which then transforms the git init
+begin we'll have to go into top right where the + icon is and click on it then click on new repository.
+![alt text](https://i.gyazo.com/b7e979aa7aafcfdf7b44cdee30490e87.png)  
+
 
 
 ---
