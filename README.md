@@ -17,14 +17,14 @@ Things from github are...
 ---
 ## Initial Setup
 Now that you have the basic idea of Git and Github we are going to have to make ourselves a github account which is a simple proccess if you don't have a account just go to github and press sign up then just make your account.  
-
-Now we move on to a thing called IDE which means **integrated Development Software** which has to be used with github as github is not a IDE itself so to setup a IDE first you will need a IDE so that you'll be able to edit and work on your code so one that we'll be using is **[CS50](https://ide.cs50.io/)** now to set it up you'll have to follow the instructions on this github [Page](https://github.com/hstatsep/ide50). Now that you're finished with that we have to talk about SSH keys
-
+Now we move on to something called IDE which means **integrated Development Software** which has to be used with github as github is not a IDE itself so to setup a IDE first you will need a IDE so that you'll be able to edit and work on your code so one that we'll be using is **[CS50](https://ide.cs50.io/)** now to set it up you'll have to follow the instructions on this github [Page](https://github.com/hstatsep/ide50).  
+Now that you're finished with that we have to talk about SSH keys which is a important part as when linking a remote which will be shown later you'll come across 2 options when linking or copying a repository which is the SSH key and the HTTP Key and when choosing the link the SSH is the best as you just need the SSH key and you'll be able to just continue and save while the HTTP key you'll need to put you're Username and password everytime.
 
 
 ---
 ## Repository Setup
-
+Now that you have your IDE set up and ready to use github we move onto making yourself a repository maybe your first one too and to begin we'll have to go into top right where the + icon is and click on it then click on new repository.
+![alt text](https://i.gyazo.com/b7e979aa7aafcfdf7b44cdee30490e87.png)
 
 
 ---
